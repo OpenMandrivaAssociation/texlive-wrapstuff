@@ -1,6 +1,6 @@
 Name:		texlive-wrapstuff
 Version:	64058
-Release:	1
+Release:	2
 Summary:	Wrapping text around stuff
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapstuff
