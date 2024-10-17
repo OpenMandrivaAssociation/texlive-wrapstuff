@@ -3,7 +3,7 @@ Version:	64058
 Release:	2
 Summary:	Wrapping text around stuff
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapstuff
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wrapstuff
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapstuff.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapstuff.doc.r%{version}.tar.xz
